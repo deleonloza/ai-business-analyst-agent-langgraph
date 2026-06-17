@@ -173,7 +173,7 @@ python -m venv venv
 Activar el entorno virtual:
 
 ```bash
-venv\\Scripts\\activate
+venv\Scripts\activate
 ```
 
 Instalar las dependencias:
@@ -187,7 +187,7 @@ Variables de entorno:
 Crear un archivo `.env` a partir de `.env.example`:
 
 ```env
-GROQ\_API\_KEY=your\_api\_key\_here
+GROQ_API_KEY=your_api_key_here
 ```
 
 ## Ejecución
